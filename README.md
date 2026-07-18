@@ -30,13 +30,13 @@ pip install -r requirements.txt
 python main.py
 ```
 
-When prompted, enter:
+
 
 ```text
 sample_data/brca1.fasta
 ```
 
-The report will be generated in:
+
 
 ```text
 output/quality_report.txt
@@ -44,7 +44,4 @@ output/quality_report.txt
 
 ## Future Improvements
 
-- Support multiple FASTA files
-- CSV report export
-- Interactive command-line options
-- GC content visualization
+
