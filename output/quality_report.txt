@@ -1,0 +1,24 @@
+==================================================
+GenomeQC Toolkit Report
+==================================================
+
+Sequence ID      : BRCA1_Human_Example
+Description      : BRCA1_Human_Example
+Sequence Length  : 410 bp
+GC Content       : 62.93%
+AT Content       : 37.07%
+
+Base Composition
+----------------
+A : 76
+T : 76
+G : 130
+C : 128
+N : 0
+
+Quality Assessment
+------------------
+PASS: No ambiguous bases detected
+WARNING: GC Content outside expected range
+PASS: Sequence successfully parsed
+PASS: Ready for downstream analysis
