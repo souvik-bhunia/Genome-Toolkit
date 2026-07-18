@@ -41,7 +41,7 @@ sample_data/brca1.fasta
 ```text
 output/quality_report.txt
 ```
-![GenomeQC Toolkit Output](screenshots/output.png)
+![Genome Toolkit Output](screenshots/output.png)
 
 ## Future Improvements
 
